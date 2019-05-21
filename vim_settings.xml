@@ -88,10 +88,10 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558418492871">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558423155351">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" timestamp="1550209099049">
         <mark key="'" line="455" column="4" />
@@ -212,44 +212,44 @@
       <jump line="14" column="39" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtYWN0dWF0b3ItZG9jcycK</text>
+      <register name="&quot;" type="4">
+        <text>dummy.keystore</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>dummy.keystore</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaWdlc3RVdGlsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFnZSBpbnRlZ2VyIG5vdCBudWxsLAo=</text>
+        <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpzc2wtc2VydmVyLmprcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtYWN0dWF0b3ItZG9jcycK</text>
+        <text encoding="base64">c2VjdXJpdHkucmVxdWlyZS1zc2wgPSB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFnZTIgaW50ZWdlciBub3QgbnVsbCwK</text>
+        <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpkdW1teS5rZXlzdG9yZS5wMTIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktYWxpYXM6IHNlbGZzaWduZWRfbG9jYWxob3N0X3NzbHNlcnZlcgpzZXJ2ZXIuc3NsLmtleS1wYXNzd29yZDogY2hhbmdlaXQKc2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpzc2wtc2VydmVyLmprcwpzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wcm92aWRlcjogU1VOCnNlcnZlci5zc2wua2V5LXN0b3JlLXR5cGU6IEpLUwo=</text>
+        <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpkdW1teS5rZXlzdG9yZS5wMTIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAic3NsLXJlcXVpcmVkIjogImV4dGVybmFsIiwK</text>
+        <text encoding="base64">c2VydmVyLnNzbC5rZXktYWxpYXM6IHRvbWNhdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAidXNlLXJlc291cmNlLXJvbGUtbWFwcGluZ3MiOiB0cnVlLAo=</text>
+        <text encoding="base64">c2VydmVyLnNzbC5rZXktcGFzc3dvcmQ6IGNoYW5nZWl0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAidmVyaWZ5LXRva2VuLWF1ZGllbmNlIjogdHJ1ZSwK</text>
+        <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmUtcHJvdmlkZXI6IFNVTgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I3NlcnZlci5zc2wua2V5LXN0b3JlOiBjbGFzc3BhdGg6c3NsLXNlcnZlci5qa3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlc3RUZW1wbGF0ZSByZXN0VGVtcGxhdGUgPSBuZXcgUmVzdFRlbXBsYXRlKGdldENsaWVudEh0dHBSZXF1ZXN0RmFjdG9yeSgpKTsK</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtYWN0dWF0b3ItZG9jcycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGFnZTIgaW50ZWdlciBub3QgbnVsbCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
