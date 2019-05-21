@@ -53,10 +53,13 @@
       <file name="/HTML File.txt.ft" timestamp="1558400673310">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.vm" timestamp="1558405845274">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/servlet/BeanServlet.java" timestamp="1558343437032">
         <mark key="'" line="4" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558361314662">
+      <file name="/Dummy.txt" timestamp="1558407313522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -77,6 +80,12 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" timestamp="1558343601006">
         <mark key="'" line="14" column="39" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558360833972">
         <mark key="[" line="4" column="0" />
@@ -103,8 +112,7 @@
         <mark key="]" line="753" column="0" />
         <mark key="." line="753" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/model/alcohol/AlcoholInfo.java" timestamp="1558403496807" />
-      <file name="/fragment.java" timestamp="1558361314639">
+      <file name="/fragment.java" timestamp="1558407313506">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
