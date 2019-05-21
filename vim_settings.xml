@@ -88,10 +88,11 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558423155351">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558424564645">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="34" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" timestamp="1550209099049">
         <mark key="'" line="455" column="4" />
@@ -213,10 +214,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dummy.keystore</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>dummy.keystore</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaWdlc3RVdGlsc1w+</text>
