@@ -10,18 +10,6 @@
         <mark key="." line="120" column="52" />
         <mark key="^" line="120" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558361314662">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
-        <mark key="[" line="458" column="16" />
-        <mark key="]" line="458" column="19" />
-        <mark key="^" line="458" column="19" />
-        <mark key="." line="458" column="19" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/common/po/TrafficCounterKey.java" timestamp="1552454782536">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="63" column="22" />
@@ -29,29 +17,11 @@
         <mark key="." line="63" column="25" />
         <mark key="^" line="63" column="25" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/spring/post/RestClient.java" timestamp="1552455781048">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="67" />
-        <mark key="." line="57" column="67" />
-        <mark key="^" line="57" column="67" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" timestamp="1558343601006">
-        <mark key="'" line="14" column="39" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/common/po/TrafficCounter.java" timestamp="1552457379225">
         <mark key="'" line="342" column="24" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/webapp/WEB-INF/web.xml" timestamp="1550240098320">
         <mark key="'" line="76" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558360833972">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" timestamp="1550209099049">
-        <mark key="'" line="455" column="4" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558360678639">
         <mark key="[" line="3" column="0" />
@@ -68,17 +38,6 @@
       <file name="$USER_HOME$/IdeaProjects/springboot-security-jwt/src/main/java/com/svlada/security/auth/ajax/AjaxAwareAuthenticationSuccessHandler.java" timestamp="1542873775830">
         <mark key="'" line="32" column="13" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/CustomerPersonsMapper.xml" timestamp="1550210742722">
-        <mark key="'" line="241" column="15" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/TrafficCounterMapper.xml" timestamp="1552526072113">
-        <mark key="a" line="1706" column="59" />
-        <mark key="'" line="54" column="47" />
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-      </file>
       <file name="/Gradle Kotlin DSL Build Script.txt.ft" timestamp="1558400673338">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,18 +50,60 @@
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/SessionsMapper.xml" timestamp="1550713985856">
         <mark key="'" line="119" column="3" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/service/impl/TrafficCounterSevice.java" timestamp="1552527523241">
-        <mark key="'" line="71" column="49" />
-        <mark key="[" line="753" column="0" />
-        <mark key="]" line="753" column="0" />
-        <mark key="." line="753" column="0" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1558400673310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/servlet/BeanServlet.java" timestamp="1558343437032">
         <mark key="'" line="4" column="39" />
       </file>
+      <file name="/Dummy.txt" timestamp="1558361314662">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
+        <mark key="[" line="458" column="16" />
+        <mark key="]" line="458" column="19" />
+        <mark key="^" line="458" column="19" />
+        <mark key="." line="458" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/spring/post/RestClient.java" timestamp="1552455781048">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="57" column="32" />
+        <mark key="]" line="57" column="67" />
+        <mark key="." line="57" column="67" />
+        <mark key="^" line="57" column="67" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" timestamp="1558343601006">
+        <mark key="'" line="14" column="39" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558360833972">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" timestamp="1550209099049">
+        <mark key="'" line="455" column="4" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/CustomerPersonsMapper.xml" timestamp="1550210742722">
+        <mark key="'" line="241" column="15" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/TrafficCounterMapper.xml" timestamp="1552526072113">
+        <mark key="a" line="1706" column="59" />
+        <mark key="'" line="54" column="47" />
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/service/impl/TrafficCounterSevice.java" timestamp="1552527523241">
+        <mark key="'" line="71" column="49" />
+        <mark key="[" line="753" column="0" />
+        <mark key="]" line="753" column="0" />
+        <mark key="." line="753" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/model/alcohol/AlcoholInfo.java" timestamp="1558403496807" />
       <file name="/fragment.java" timestamp="1558361314639">
         <mark key="[" line="0" column="0" />
       </file>
@@ -250,7 +251,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90cmFmZmljQ291bnRlck1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUodHJhZmZpY0NvdW50ZXIpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -288,7 +289,6 @@
       <history-cmd>
         <entry>1177</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w]</entry>
         <entry>123</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -306,6 +306,7 @@
         <entry>459</entry>
         <entry>1</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
