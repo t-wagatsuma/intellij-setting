@@ -23,12 +23,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/README.md" timestamp="1558429759460">
-        <mark key="[" line="18" column="78" />
-        <mark key="]" line="18" column="78" />
-        <mark key="^" line="18" column="78" />
-        <mark key="." line="18" column="78" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/README.md" timestamp="1558430921686" />
       <file name="$USER_HOME$/IdeaProjects/springboot-security-jwt/src/main/java/com/svlada/security/auth/ajax/AjaxAwareAuthenticationSuccessHandler.java" timestamp="1542873775830">
         <mark key="'" line="32" column="13" />
       </file>
@@ -73,7 +68,7 @@
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/build.gradle" timestamp="1558417141317">
         <mark key="[" line="23" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558429925125">
+      <file name="/Dummy.txt" timestamp="1558431228741">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -219,44 +214,44 @@
       <jump line="14" column="39" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>内</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>内</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaWdlc3RVdGlsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpzc2wtc2VydmVyLmprcwo=</text>
+        <text encoding="base64">IyMjIyBpbXBvcnQga2V5c3RvcmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGtleXRvb2wgLWRlbGV0ZSAta2V5c3RvcmUgIiVKQVZBX0hPTUUlXGxpYlxzZWN1cml0eVxjYWNlcnRzIiAtYWxpYXMgbXlrZXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGtleXRvb2wgLWRlbGV0ZSAta2V5c3RvcmUgIiVKQVZBX0hPTUUlXGxpYlxzZWN1cml0eVxjYWNlcnRzIiAtYWxpYXMgbXlrZXkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBjaGFuZ2UgcHJvamVjdCdzIGRpcmVjdG9yeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGtleXRvb2wgLWxpc3QgLXYgLWtleXN0b3JlICIlSkFWQV9IT01FJVxsaWJcc2VjdXJpdHlcY2FjZXJ0cyIK</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyMgU2VydmVyIFVybAo=</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyMgg3KDi4NogsaOwI1zCg==</text>
+        <text encoding="base64">ICAgIGtleXRvb2wgLWRlbGV0ZSAta2V5c3RvcmUgIiVKQVZBX0hPTUUlXGxpYlxzZWN1cml0eVxjYWNlcnRzIiAtYWxpYXMgbXlrZXkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a2V5dG9vbCAta2V5c3RvcmUgJUpBVkFfSE9NRSVcanJlXGxpYlxzZWN1cml0eVxjYWNlcnRzIC1pbXBvcnQgLWZpbGUgc3JjXG1haW5ccmVzb3VyY2VzXGlvdHNvbC1rYy5jZXIK</text>
+        <text encoding="base64">ICAgIGtleXRvb2wgLWRlbGV0ZSAta2V5c3RvcmUgIiVKQVZBX0hPTUUlXGxpYlxzZWN1cml0eVxjYWNlcnRzIiAtYWxpYXMgbXlrZXkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VjdXJpdHkucmVxdWlyZS1zc2wgPSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
