@@ -23,6 +23,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/README.md" timestamp="1558429759460">
+        <mark key="[" line="18" column="78" />
+        <mark key="]" line="18" column="78" />
+        <mark key="^" line="18" column="78" />
+        <mark key="." line="18" column="78" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/springboot-security-jwt/src/main/java/com/svlada/security/auth/ajax/AjaxAwareAuthenticationSuccessHandler.java" timestamp="1542873775830">
         <mark key="'" line="32" column="13" />
       </file>
@@ -67,7 +73,7 @@
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/build.gradle" timestamp="1558417141317">
         <mark key="[" line="23" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558426952578">
+      <file name="/Dummy.txt" timestamp="1558429925125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -214,10 +220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>内</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>内</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaWdlc3RVdGlsc1w+</text>
@@ -226,31 +232,31 @@
         <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpzc2wtc2VydmVyLmprcwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VjdXJpdHkucmVxdWlyZS1zc2wgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgIGtleXRvb2wgLWRlbGV0ZSAta2V5c3RvcmUgIiVKQVZBX0hPTUUlXGxpYlxzZWN1cml0eVxjYWNlcnRzIiAtYWxpYXMgbXlrZXkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpkdW1teS5rZXlzdG9yZS5wMTIK</text>
+        <text encoding="base64">ICAgIGtleXRvb2wgLWRlbGV0ZSAta2V5c3RvcmUgIiVKQVZBX0hPTUUlXGxpYlxzZWN1cml0eVxjYWNlcnRzIiAtYWxpYXMgbXlrZXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpkdW1teS5rZXlzdG9yZS5wMTIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktYWxpYXM6IHRvbWNhdAo=</text>
+        <text encoding="base64">ICAgIGtleXRvb2wgLWxpc3QgLXYgLWtleXN0b3JlICIlSkFWQV9IT01FJVxsaWJcc2VjdXJpdHlcY2FjZXJ0cyIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktcGFzc3dvcmQ6IGNoYW5nZWl0Cg==</text>
+        <text encoding="base64">IyMgU2VydmVyIFVybAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktc3RvcmUtcHJvdmlkZXI6IFNVTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3NlcnZlci5zc2wua2V5LXN0b3JlOiBjbGFzc3BhdGg6c3NsLXNlcnZlci5qa3MK</text>
+        <text encoding="base64">IyMgg3KDi4NogsaOwI1zCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtYWN0dWF0b3ItZG9jcycK</text>
+        <text encoding="base64">a2V5dG9vbCAta2V5c3RvcmUgJUpBVkFfSE9NRSVcanJlXGxpYlxzZWN1cml0eVxjYWNlcnRzIC1pbXBvcnQgLWZpbGUgc3JjXG1haW5ccmVzb3VyY2VzXGlvdHNvbC1rYy5jZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFnZTIgaW50ZWdlciBub3QgbnVsbCwK</text>
+        <text encoding="base64">c2VjdXJpdHkucmVxdWlyZS1zc2wgPSB0cnVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
