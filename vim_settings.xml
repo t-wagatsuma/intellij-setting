@@ -23,7 +23,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/README.md" timestamp="1558430921686" />
       <file name="$USER_HOME$/IdeaProjects/springboot-security-jwt/src/main/java/com/svlada/security/auth/ajax/AjaxAwareAuthenticationSuccessHandler.java" timestamp="1542873775830">
         <mark key="'" line="32" column="13" />
       </file>
@@ -68,7 +67,7 @@
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/build.gradle" timestamp="1558417141317">
         <mark key="[" line="23" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558431228741">
+      <file name="/Dummy.txt" timestamp="1558485289402">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,7 +88,7 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558424564645">
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558485247600">
         <mark key="[" line="6" column="42" />
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
