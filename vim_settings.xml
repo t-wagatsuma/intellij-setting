@@ -3,14 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/common/po/TrafficCounter.java" timestamp="1552457379225">
-        <mark key="'" line="342" column="24" />
-      </file>
-      <file name="/a.dummy" timestamp="1558413768177">
+      <file name="/a.dummy" timestamp="1558491947195">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/webapp/WEB-INF/web.xml" timestamp="1550240098320">
-        <mark key="'" line="76" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558410553120">
         <mark key="[" line="8" column="79" />
@@ -18,17 +12,16 @@
         <mark key="^" line="8" column="79" />
         <mark key="." line="8" column="79" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558491760899" />
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558360678639">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/springboot-security-jwt/src/main/java/com/svlada/security/auth/ajax/AjaxAwareAuthenticationSuccessHandler.java" timestamp="1542873775830">
-        <mark key="'" line="32" column="13" />
-      </file>
       <file name="/TEST.DB.PUBLIC.flyway_schema_history [test.db]" timestamp="1558412626559">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/util/Builder.java" timestamp="1558491995523" />
       <file name="/Gradle Kotlin DSL Build Script.txt.ft" timestamp="1558400673338">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,9 +30,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/pom.xml" timestamp="1558343221563">
-        <mark key="'" line="362" column="21" />
-      </file>
+      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/controller/EmployeeController.java" timestamp="1558492423802" />
       <file name="$USER_HOME$/Documents/repositories/spring-demo/build.gradle" timestamp="1558412570712">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -49,17 +40,11 @@
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/db/migration/V2.2.1__add_index.sql" timestamp="1550551433467">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/SessionsMapper.xml" timestamp="1550713985856">
-        <mark key="'" line="119" column="3" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1558400673310">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.vm" timestamp="1558405845274">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/servlet/BeanServlet.java" timestamp="1558343437032">
-        <mark key="'" line="4" column="39" />
       </file>
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
@@ -77,9 +62,6 @@
         <mark key="^" line="458" column="19" />
         <mark key="." line="458" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" timestamp="1558343601006">
-        <mark key="'" line="14" column="39" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="23" />
@@ -92,15 +74,12 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" timestamp="1550209099049">
-        <mark key="'" line="455" column="4" />
-      </file>
       <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/CustomerPersonsMapper.xml" timestamp="1550210742722">
-        <mark key="'" line="241" column="15" />
-      </file>
+      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/AppConfig.java" timestamp="1558491909764" />
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/AlcoholService.java" timestamp="1558492108794" />
+      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/dto/SimpleResponseListDto.java" timestamp="1558492466882" />
       <file name="/fragment.java" timestamp="1558415759719">
         <mark key="[" line="0" column="0" />
       </file>
