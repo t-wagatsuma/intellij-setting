@@ -3,8 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1558515321375">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
+        <mark key="[" line="458" column="16" />
+        <mark key="]" line="458" column="19" />
+        <mark key="^" line="458" column="19" />
+        <mark key="." line="458" column="19" />
+      </file>
       <file name="/a.dummy" timestamp="1558491947195">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
         <mark key="[" line="19" column="0" />
@@ -12,15 +29,32 @@
         <mark key="^" line="21" column="57" />
         <mark key="." line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558512606092">
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558512686864">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558515293479">
+        <mark key="[" line="81" column="45" />
+        <mark key="]" line="81" column="45" />
+        <mark key="." line="81" column="45" />
+        <mark key="^" line="84" column="83" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558511338807">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/README.md" timestamp="1558514104892">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+      </file>
+      <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/TEST.DB.PUBLIC.flyway_schema_history [test.db]" timestamp="1558412626559">
         <mark key="[" line="0" column="0" />
@@ -49,31 +83,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/dummy.sql" timestamp="1558412637689">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1558512719160">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
-        <mark key="[" line="458" column="16" />
-        <mark key="]" line="458" column="19" />
-        <mark key="^" line="458" column="19" />
-        <mark key="." line="458" column="19" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558512686864">
-        <mark key="'" line="1" column="26" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1558512261722">
@@ -186,44 +195,44 @@
       <jump line="1" column="26" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">a2V5Y2xvYWsuY29uZmlnPS90bXAvaG9nZS5qc29uCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">a2V5Y2xvYWuCzJLoi2CDdINAg0ODi4LwjbeCtZHWgqaC6Y/qjYeBQYrCi6uVz5CUIEtFWUNMT0FLX0NPTkZJRz08kuiLYIN0g0CDQ4OLgsyDcINYPiCC8I53kuiCtYLcgreBQpfhOi90bXAva2V5Y2xvYWsuanNvbg==</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">a2V5Y2xvYWuCzJLoi2CDdINAg0ODi4LwjbeCtZHWgqaC6Y/qjYeBQYrCi6uVz5CUIEtFWUNMT0FLX0NPTkZJRz08kuiLYIN0g0CDQ4OLgsyDcINYPiCC8I53kuiCtYLcgreBQpfhOi90bXAva2V5Y2xvYWsuanNvbg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29uXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIyBpbXBvcnQga2V5c3RvcmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maWdJbnB1dFN0cmVhbSA9IGdldENsYXNzKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbShrZXljbG9ha0NvbmZpZ1BhdGgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">a2V5Y2xvYWsuY29uZmlnPS90bXAvaG9nZS5qc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXRoID0ga2V5Y2xvYWtDb25maWdQYXRoOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnSW5wdXRTdHJlYW0gPSBpczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VydmVyLmNvbnRleHQtcGF0aD0vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnSW5wdXRTdHJlYW0gPSBnZXRDbGFzcygpLmdldFJlc291cmNlQXNTdHJlYW0oa2V5Y2xvYWtDb25maWdQYXRoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS41Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIgaVNSZWFkZXIgPSBuZXcgSW5wdXRTdHJlYW1SZWFkZXIoZklTdHJlYW0sICJVVEYtOCIpOwoKICAgICAgICAgICAgICAgICAgICAgICAgaW50IGRhdGE7CiAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlICgoZGF0YSA9IGlTUmVhZGVyLnJlYWQoKSkgIT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRhKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZScgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
