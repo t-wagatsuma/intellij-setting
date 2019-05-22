@@ -6,11 +6,11 @@
       <file name="/a.dummy" timestamp="1558491947195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558410553120">
-        <mark key="[" line="8" column="79" />
-        <mark key="]" line="8" column="79" />
-        <mark key="^" line="8" column="79" />
-        <mark key="." line="8" column="79" />
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+        <mark key="." line="21" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558360678639">
         <mark key="[" line="3" column="0" />
@@ -46,12 +46,6 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558504484133">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
         <mark key="[" line="458" column="16" />
         <mark key="]" line="458" column="19" />
@@ -64,7 +58,12 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558502888037" />
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558510031257">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="20" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
         <mark key="[" line="0" column="0" />
       </file>
@@ -178,11 +177,11 @@
       <jump line="14" column="39" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c2VydmVyLmNvbnRleHQtcGF0aD0vCg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaWdlc3RVdGlsc1w+</text>
@@ -191,31 +190,31 @@
         <text encoding="base64">IyMjIyBpbXBvcnQga2V5c3RvcmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
+        <text encoding="base64">c2VydmVyLmNvbnRleHQtcGF0aD0vCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CWlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS41Jwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZScgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL3NuYXBzaG90JyB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CWlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS41Jwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZScgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL3NuYXBzaG90JyB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtZGV2dG9vbHMnCglydW50aW1lT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItYWN0dWF0b3InCg==</text>
+        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
