@@ -12,7 +12,12 @@
         <mark key="^" line="21" column="57" />
         <mark key="." line="21" column="57" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558360678639">
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558512606092">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558511338807">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -46,6 +51,9 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1558512719160">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
         <mark key="[" line="458" column="16" />
         <mark key="]" line="458" column="19" />
@@ -58,16 +66,17 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558510031257">
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558512686864">
+        <mark key="'" line="1" column="26" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="20" />
+        <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558415759719">
+      <file name="/fragment.java" timestamp="1558512261722">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1558413218902">
@@ -75,7 +84,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="70" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/WebSecurityConfiguration.java" />
       <jump line="34" column="29" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/WebSecurityConfiguration.java" />
       <jump line="115" column="17" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/WebSecurityConfiguration.java" />
       <jump line="19" column="65" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/SkipPathRequestMatcher.java" />
@@ -175,63 +183,63 @@
       <jump line="4" column="39" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/servlet/BeanServlet.java" />
       <jump line="372" column="29" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" />
       <jump line="14" column="39" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" />
+      <jump line="1" column="26" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">c2VydmVyLmNvbnRleHQtcGF0aD0vCg==</text>
+        <text encoding="base64">a2V5Y2xvYWsuY29uZmlnPS90bXAvaG9nZS5qc29uCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEaWdlc3RVdGlsc1w+</text>
+        <text encoding="base64">XDxqc29uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">IyMjIyBpbXBvcnQga2V5c3RvcmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VydmVyLmNvbnRleHQtcGF0aD0vCg==</text>
+        <text encoding="base64">a2V5Y2xvYWsuY29uZmlnPS90bXAvaG9nZS5qc29uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBwYXRoID0ga2V5Y2xvYWtDb25maWdQYXRoOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
+        <text encoding="base64">c2VydmVyLmNvbnRleHQtcGF0aD0vCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CWlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS41Jwo=</text>
+        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZScgfQo=</text>
+        <text encoding="base64">CWlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS41Jwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL3NuYXBzaG90JyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
+        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZScgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEaWdlc3RVdGlsc1w+</last-search>
+      <last-search encoding="base64">XDxqc29uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEaWdlc3RVdGlsc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxqc29uXD4=</last-pattern>
       <last-replace>Simple</last-replace>
       <last-substitute>Demo</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxBZFZpZXdlcnNUaHJlYWRcPg==</entry>
         <entry>like</entry>
         <entry encoding="base64">XDxsaWtlU3RyXD4=</entry>
         <entry>LIMIT</entry>
@@ -251,6 +259,7 @@
         <entry>id</entry>
         <entry>codec</entry>
         <entry encoding="base64">XDxEaWdlc3RVdGlsc1w+</entry>
+        <entry encoding="base64">XDxqc29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1177</entry>
