@@ -3,14 +3,50 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/common/dao/TrafficCounterMapper.java" timestamp="1552456976319">
-        <mark key="'" line="108" column="68" />
-        <mark key="[" line="120" column="49" />
-        <mark key="]" line="120" column="52" />
-        <mark key="." line="120" column="52" />
-        <mark key="^" line="120" column="52" />
+      <file name="/a.dummy" timestamp="1558491947195">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558361314662">
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558410553120">
+        <mark key="[" line="8" column="79" />
+        <mark key="]" line="8" column="79" />
+        <mark key="^" line="8" column="79" />
+        <mark key="." line="8" column="79" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558360678639">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="/TEST.DB.PUBLIC.flyway_schema_history [test.db]" timestamp="1558412626559">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Gradle Kotlin DSL Build Script.txt.ft" timestamp="1558400673338">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/resources/db/migration/V1__create_table.sql" timestamp="1558412462475">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/spring-demo/build.gradle" timestamp="1558412570712">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="99" column="15" />
+        <mark key="." line="100" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/db/migration/V2.2.1__add_index.sql" timestamp="1550551433467">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1558400673310">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.vm" timestamp="1558405845274">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dummy.sql" timestamp="1558412637689">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1558504484133">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -22,88 +58,20 @@
         <mark key="^" line="458" column="19" />
         <mark key="." line="458" column="19" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/common/po/TrafficCounterKey.java" timestamp="1552454782536">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="22" />
-        <mark key="]" line="63" column="25" />
-        <mark key="." line="63" column="25" />
-        <mark key="^" line="63" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/spring/post/RestClient.java" timestamp="1552455781048">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="67" />
-        <mark key="." line="57" column="67" />
-        <mark key="^" line="57" column="67" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" timestamp="1558343601006">
-        <mark key="'" line="14" column="39" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/common/po/TrafficCounter.java" timestamp="1552457379225">
-        <mark key="'" line="342" column="24" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/webapp/WEB-INF/web.xml" timestamp="1550240098320">
-        <mark key="'" line="76" column="19" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558360833972">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" timestamp="1550209099049">
-        <mark key="'" line="455" column="4" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558360678639">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/service/async/ForwardThread.java" timestamp="1552527671631">
-        <mark key="'" line="56" column="78" />
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="36" column="35" />
-        <mark key="^" line="36" column="35" />
-        <mark key="." line="36" column="35" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/springboot-security-jwt/src/main/java/com/svlada/security/auth/ajax/AjaxAwareAuthenticationSuccessHandler.java" timestamp="1542873775830">
-        <mark key="'" line="32" column="13" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/CustomerPersonsMapper.xml" timestamp="1550210742722">
-        <mark key="'" line="241" column="15" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/TrafficCounterMapper.xml" timestamp="1552526072113">
-        <mark key="a" line="1706" column="59" />
-        <mark key="'" line="54" column="47" />
-        <mark key="[" line="9" column="34" />
-        <mark key="]" line="9" column="37" />
-        <mark key="." line="9" column="37" />
-        <mark key="^" line="9" column="37" />
-      </file>
-      <file name="/Gradle Kotlin DSL Build Script.txt.ft" timestamp="1558400673338">
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558502888037" />
+      <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/pom.xml" timestamp="1558343221563">
-        <mark key="'" line="362" column="21" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/db/migration/V2.2.1__add_index.sql" timestamp="1550551433467">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/SessionsMapper.xml" timestamp="1550713985856">
-        <mark key="'" line="119" column="3" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/service/impl/TrafficCounterSevice.java" timestamp="1552527523241">
-        <mark key="'" line="71" column="49" />
-        <mark key="[" line="753" column="0" />
-        <mark key="]" line="753" column="0" />
-        <mark key="." line="753" column="0" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1558400673310">
+      <file name="/fragment.java" timestamp="1558415759719">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/servlet/BeanServlet.java" timestamp="1558343437032">
-        <mark key="'" line="4" column="39" />
-      </file>
-      <file name="/fragment.java" timestamp="1558361314639">
+      <file name="/DummyFile.xpath" timestamp="1558413218902">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -210,44 +178,44 @@
       <jump line="14" column="39" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktYWxpYXM6IHNlbGZzaWduZWRfbG9jYWxob3N0X3NzbHNlcnZlcgpzZXJ2ZXIuc3NsLmtleS1wYXNzd29yZDogY2hhbmdlaXQKc2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpzc2wtc2VydmVyLmprcwpzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wcm92aWRlcjogU1VOCnNlcnZlci5zc2wua2V5LXN0b3JlLXR5cGU6IEpLUwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>issue #2439 | センサーデータ受信のbasic認証失敗をログに記録する</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaWdlc3RVdGlsc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRIdHRwUmVxdWVzdEZhY3Rvcnkuc2V0UmVhZFRpbWVvdXQodGltZW91dCk7Cg==</text>
+        <text encoding="base64">IyMjIyBpbXBvcnQga2V5c3RvcmUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VydmVyLnNzbC5rZXktYWxpYXM6IHNlbGZzaWduZWRfbG9jYWxob3N0X3NzbHNlcnZlcgpzZXJ2ZXIuc3NsLmtleS1wYXNzd29yZDogY2hhbmdlaXQKc2VydmVyLnNzbC5rZXktc3RvcmU6IGNsYXNzcGF0aDpzc2wtc2VydmVyLmprcwpzZXJ2ZXIuc3NsLmtleS1zdG9yZS1wcm92aWRlcjogU1VOCnNlcnZlci5zc2wua2V5LXN0b3JlLXR5cGU6IEpLUwo=</text>
+        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAic3NsLXJlcXVpcmVkIjogImV4dGVybmFsIiwK</text>
+        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAidXNlLXJlc291cmNlLXJvbGUtbWFwcGluZ3MiOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAidmVyaWZ5LXRva2VuLWF1ZGllbmNlIjogdHJ1ZSwK</text>
+        <text encoding="base64">CWlkICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3QnIHZlcnNpb24gJzIuMS41Jwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlc3RUZW1wbGF0ZSByZXN0VGVtcGxhdGUgPSBuZXcgUmVzdFRlbXBsYXRlKGdldENsaWVudEh0dHBSZXF1ZXN0RmFjdG9yeSgpKTsK</text>
+        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL21pbGVzdG9uZScgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">CW1hdmVuIHsgdXJsICdodHRwczovL3JlcG8uc3ByaW5nLmlvL3NuYXBzaG90JyB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJlc3QuCg==</text>
+        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3Qtc3RhcnRlci1hY3R1YXRvcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90cmFmZmljQ291bnRlck1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUodHJhZmZpY0NvdW50ZXIpOwo=</text>
+        <text encoding="base64">CXJ1bnRpbWVPbmx5ICdvcmcuc3ByaW5nZnJhbWV3b3JrLmJvb3Q6c3ByaW5nLWJvb3QtZGV2dG9vbHMnCglydW50aW1lT25seSAnb3JnLnNwcmluZ2ZyYW1ld29yay5ib290OnNwcmluZy1ib290LXN0YXJ0ZXItYWN0dWF0b3InCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -288,7 +256,6 @@
       <history-cmd>
         <entry>1177</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w]</entry>
         <entry>123</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -304,6 +271,7 @@
         <entry>63</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>459</entry>
+        <entry>q</entry>
         <entry>1</entry>
         <entry>w</entry>
       </history-cmd>
