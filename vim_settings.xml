@@ -12,7 +12,6 @@
         <mark key="^" line="8" column="79" />
         <mark key="." line="8" column="79" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558491760899" />
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558360678639">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -21,7 +20,6 @@
       <file name="/TEST.DB.PUBLIC.flyway_schema_history [test.db]" timestamp="1558412626559">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/util/Builder.java" timestamp="1558491995523" />
       <file name="/Gradle Kotlin DSL Build Script.txt.ft" timestamp="1558400673338">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,7 +28,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/controller/EmployeeController.java" timestamp="1558492423802" />
       <file name="$USER_HOME$/Documents/repositories/spring-demo/build.gradle" timestamp="1558412570712">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
@@ -49,7 +46,6 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/build.gradle" timestamp="1558490452949" />
       <file name="/Dummy.txt" timestamp="1558490111344">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -68,18 +64,10 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558485247600">
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="6" column="42" />
-        <mark key="." line="6" column="42" />
-        <mark key="^" line="6" column="34" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558502888037" />
       <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/AppConfig.java" timestamp="1558491909764" />
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/AlcoholService.java" timestamp="1558492108794" />
-      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/dto/SimpleResponseListDto.java" timestamp="1558492466882" />
       <file name="/fragment.java" timestamp="1558415759719">
         <mark key="[" line="0" column="0" />
       </file>
