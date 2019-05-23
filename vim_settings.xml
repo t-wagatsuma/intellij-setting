@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558594002102">
+      <file name="/Dummy.txt" timestamp="1558595299750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -36,11 +36,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558515293479">
-        <mark key="[" line="81" column="45" />
-        <mark key="]" line="81" column="45" />
-        <mark key="." line="81" column="45" />
-        <mark key="^" line="84" column="83" />
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558595374404">
+        <mark key="[" line="96" column="45" />
+        <mark key="]" line="96" column="45" />
+        <mark key="." line="96" column="45" />
+        <mark key="^" line="99" column="83" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558511338807">
         <mark key="[" line="3" column="0" />
@@ -48,10 +48,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/README.md" timestamp="1558514104892">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="20" />
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="28" column="20" />
       </file>
       <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
         <mark key="[" line="0" column="0" />
@@ -85,7 +85,7 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558594002093">
+      <file name="/fragment.java" timestamp="1558595469055">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1558413218902">
