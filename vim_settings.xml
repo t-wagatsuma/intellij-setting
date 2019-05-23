@@ -3,51 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558594767652">
+      <file name="/Dummy.txt" timestamp="1558594002102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/db/migration/V2.2.1__add_index.sql" timestamp="1550551433467">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
+        <mark key="[" line="458" column="16" />
+        <mark key="]" line="458" column="19" />
+        <mark key="^" line="458" column="19" />
+        <mark key="." line="458" column="19" />
       </file>
       <file name="/a.dummy" timestamp="1558491947195">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558587243638">
-        <mark key="[" line="13" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
+        <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="23" />
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558511338807">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558515293479">
-        <mark key="[" line="81" column="45" />
-        <mark key="]" line="81" column="45" />
-        <mark key="." line="81" column="45" />
-        <mark key="^" line="84" column="83" />
-      </file>
-      <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/resources/db/migration/V1__create_table.sql" timestamp="1558412462475">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/README.md" timestamp="1558514104892">
-        <mark key="[" line="25" column="16" />
-        <mark key="]" line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="20" />
-      </file>
-      <file name="/TEST.DB.PUBLIC.flyway_schema_history [test.db]" timestamp="1558412626559">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="57" />
+        <mark key="^" line="21" column="57" />
+        <mark key="." line="21" column="57" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558512686864">
         <mark key="'" line="1" column="26" />
@@ -56,14 +36,36 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558515293479">
+        <mark key="[" line="81" column="45" />
+        <mark key="]" line="81" column="45" />
+        <mark key="." line="81" column="45" />
+        <mark key="^" line="84" column="83" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/keycloak.json" timestamp="1558511338807">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/README.md" timestamp="1558514104892">
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+      </file>
+      <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/TEST.DB.PUBLIC.flyway_schema_history [test.db]" timestamp="1558412626559">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Gradle Kotlin DSL Build Script.txt.ft" timestamp="1558400673338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="21" column="57" />
-        <mark key="^" line="21" column="57" />
-        <mark key="." line="21" column="57" />
+      <file name="$USER_HOME$/Documents/repositories/spring-demo/src/main/resources/db/migration/V1__create_table.sql" timestamp="1558412462475">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/spring-demo/build.gradle" timestamp="1558412570712">
         <mark key="[" line="100" column="0" />
@@ -71,11 +73,8 @@
         <mark key="^" line="99" column="15" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
-        <mark key="[" line="458" column="16" />
-        <mark key="]" line="458" column="19" />
-        <mark key="^" line="458" column="19" />
-        <mark key="." line="458" column="19" />
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/db/migration/V2.2.1__add_index.sql" timestamp="1550551433467">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1558400673310">
         <mark key="[" line="0" column="0" />
@@ -86,7 +85,7 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558594767626">
+      <file name="/fragment.java" timestamp="1558594002093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1558413218902">
@@ -250,7 +249,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxBZFZpZXdlcnNUaHJlYWRcPg==</entry>
         <entry>like</entry>
         <entry encoding="base64">XDxsaWtlU3RyXD4=</entry>
         <entry>LIMIT</entry>
@@ -270,6 +268,7 @@
         <entry>id</entry>
         <entry>codec</entry>
         <entry encoding="base64">XDxEaWdlc3RVdGlsc1w+</entry>
+        <entry encoding="base64">XDxqc29uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1177</entry>
