@@ -3,38 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1558595299750">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
-        <mark key="[" line="458" column="16" />
-        <mark key="]" line="458" column="19" />
-        <mark key="^" line="458" column="19" />
-        <mark key="." line="458" column="19" />
-      </file>
       <file name="/a.dummy" timestamp="1558491947195">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="23" />
-        <mark key="^" line="16" column="23" />
-        <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="57" />
         <mark key="^" line="21" column="57" />
         <mark key="." line="21" column="57" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558512686864">
-        <mark key="'" line="1" column="26" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558595374404">
         <mark key="[" line="96" column="45" />
@@ -53,11 +29,16 @@
         <mark key="^" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
-      <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/TEST.DB.PUBLIC.flyway_schema_history [test.db]" timestamp="1558412626559">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/util/Builder.java" timestamp="1558672382064">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" timestamp="1558672599089">
+        <mark key="'" line="82" column="12" />
       </file>
       <file name="/Gradle Kotlin DSL Build Script.txt.ft" timestamp="1558400673338">
         <mark key="[" line="0" column="0" />
@@ -85,7 +66,42 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1558595469055">
+      <file name="/Dummy.txt" timestamp="1558675140771">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/downloadsensor/service/impl/DownloadSensorServImpl.java" timestamp="1552456281138">
+        <mark key="[" line="458" column="16" />
+        <mark key="]" line="458" column="19" />
+        <mark key="^" line="458" column="19" />
+        <mark key="." line="458" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" timestamp="1558675298010">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="2" column="74" />
+        <mark key="]" line="2" column="72" />
+        <mark key="^" line="2" column="72" />
+        <mark key="." line="2" column="72" />
+      </file>
+      <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/TestController.java" timestamp="1558672634631">
+        <mark key="'" line="18" column="13" />
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="^" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/AlcoholService.java" timestamp="1558672417089" />
+      <file name="/fragment.java" timestamp="1558674902794">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/DummyFile.xpath" timestamp="1558413218902">
@@ -93,11 +109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="29" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/WebSecurityConfiguration.java" />
-      <jump line="115" column="17" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/WebSecurityConfiguration.java" />
-      <jump line="19" column="65" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/SkipPathRequestMatcher.java" />
-      <jump line="160" column="52" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/WebSecurityConfiguration.java" />
-      <jump line="73" column="11" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/jwt/JwtTokenFactory.java" />
       <jump line="56" column="11" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/filter/JwtTokenAuthenticationProcessingFilter.java" />
       <jump line="58" column="17" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/controller/SimpleExceptionHandler.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/jwt/JwtAuthenticationProvider.java" />
@@ -193,64 +204,67 @@
       <jump line="372" column="29" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" />
       <jump line="14" column="39" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/author/service/impl/AuthorServImpl.java" />
       <jump line="1" column="26" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/resources/application.properties" />
+      <jump line="18" column="13" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/TestController.java" />
+      <jump line="87" column="12" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" />
+      <jump line="100" column="12" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" />
+      <jump line="105" column="20" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" />
+      <jump line="82" column="12" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">a2V5Y2xvYWuCzJLoi2CDdINAg0ODi4LwjbeCtZHWgqaC6Y/qjYeBQYrCi6uVz5CUIEtFWUNMT0FLX0NPTkZJRz08kuiLYIN0g0CDQ4OLgsyDcINYPiCC8I53kuiCtYLcgreBQpfhOi90bXAva2V5Y2xvYWsuanNvbg==</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">a2V5Y2xvYWuCzJLoi2CDdINAg0ODi4LwjbeCtZHWgqaC6Y/qjYeBQYrCi6uVz5CUIEtFWUNMT0FLX0NPTkZJRz08kuiLYIN0g0CDQ4OLgsyDcINYPiCC8I53kuiCtYLcgreBQpfhOi90bXAva2V5Y2xvYWsuanNvbg==</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc29uXD4=</text>
+        <text encoding="base64">XDxjaGFsbGVuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25maWdJbnB1dFN0cmVhbSA9IGdldENsYXNzKCkuZ2V0UmVzb3VyY2VBc1N0cmVhbShrZXljbG9ha0NvbmZpZ1BhdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJTZXJ2aWNlID0gdXNlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IHsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnSW5wdXRTdHJlYW0gPSBpczsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnSW5wdXRTdHJlYW0gPSBnZXRDbGFzcygpLmdldFJlc291cmNlQXNTdHJlYW0oa2V5Y2xvYWtDb25maWdQYXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChOb1N1Y2hNZXRob2RFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbnN0YW5jZSA9IGNsYXp6Lm5ld0luc3RhbmNlKCk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludm9jYXRpb25UYXJnZXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfSBjYXRjaCAoTm9TdWNoTWV0aG9kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChJbnN0YW50aWF0aW9uRXhjZXB0aW9uIHwgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UgPSBjbGF6ei5nZXREZWNsYXJlZENvbnN0cnVjdG9yKCkubmV3SW5zdGFuY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbmNlID0gY2xhenouZ2V0RGVjbGFyZWRDb25zdHJ1Y3RvcigpLm5ld0luc3RhbmNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5wdXRTdHJlYW1SZWFkZXIgaVNSZWFkZXIgPSBuZXcgSW5wdXRTdHJlYW1SZWFkZXIoZklTdHJlYW0sICJVVEYtOCIpOwoKICAgICAgICAgICAgICAgICAgICAgICAgaW50IGRhdGE7CiAgICAgICAgICAgICAgICAgICAgICAgIHdoaWxlICgoZGF0YSA9IGlTUmVhZGVyLnJlYWQoKSkgIT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihkYXRhKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uZmlnSW5wdXRTdHJlYW0gPSBpczsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc29uXD4=</last-search>
+      <last-search encoding="base64">XDxjaGFsbGVuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc29uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFsbGVuZ2VcPg==</last-pattern>
       <last-replace>Simple</last-replace>
       <last-substitute>Demo</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>like</entry>
-        <entry encoding="base64">XDxsaWtlU3RyXD4=</entry>
         <entry>LIMIT</entry>
         <entry>DIST</entry>
         <entry>Version</entry>
@@ -269,6 +283,8 @@
         <entry>codec</entry>
         <entry encoding="base64">XDxEaWdlc3RVdGlsc1w+</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
+        <entry encoding="base64">XDxUZXN0Q29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxjaGFsbGVuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>1177</entry>
