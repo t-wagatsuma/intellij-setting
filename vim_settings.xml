@@ -66,7 +66,7 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1558677081766">
+      <file name="/Dummy.txt" timestamp="1558685849554">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -100,7 +100,6 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/service/impl/AlcoholService.java" timestamp="1558672417089" />
       <file name="/fragment.java" timestamp="1558674902794">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,10 +211,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>bootRun</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>bootRun</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFsbGVuZ2VcPg==</text>
