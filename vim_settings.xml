@@ -106,10 +106,11 @@
       <file name="/DummyFile.xpath" timestamp="1558413218902">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/src/assets/vue/pages/setting.vue" timestamp="1558932326934">
+        <mark key="'" line="43" column="15" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="11" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/filter/JwtTokenAuthenticationProcessingFilter.java" />
-      <jump line="58" column="17" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/controller/SimpleExceptionHandler.java" />
       <jump line="15" column="0" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/jwt/JwtAuthenticationProvider.java" />
       <jump line="75" column="0" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/filter/JwtTokenAuthenticationProcessingFilter.java" />
       <jump line="79" column="17" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/filter/JwtTokenAuthenticationProcessingFilter.java" />
@@ -208,6 +209,8 @@
       <jump line="100" column="12" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" />
       <jump line="105" column="20" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" />
       <jump line="82" column="12" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" />
+      <jump line="97" column="4" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/assets/vue/pages/setting.vue" />
+      <jump line="43" column="15" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/assets/vue/pages/setting.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -217,7 +220,7 @@
         <text>bootRun</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGFsbGVuZ2VcPg==</text>
+        <text>check-s</text>
       </register>
       <register name="0" type="4">
         <text>a</text>
@@ -254,9 +257,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGFsbGVuZ2VcPg==</last-search>
+      <last-search>check-s</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGFsbGVuZ2VcPg==</last-pattern>
+      <last-pattern>check-s</last-pattern>
       <last-replace>Simple</last-replace>
       <last-substitute>Demo</last-substitute>
       <last-dir>1</last-dir>
@@ -264,8 +267,6 @@
     </search>
     <history>
       <history-search>
-        <entry>LIMIT</entry>
-        <entry>DIST</entry>
         <entry>Version</entry>
         <entry>micro</entry>
         <entry>insert</entry>
@@ -284,6 +285,8 @@
         <entry encoding="base64">XDxqc29uXD4=</entry>
         <entry encoding="base64">XDxUZXN0Q29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxjaGFsbGVuZ2VcPg==</entry>
+        <entry encoding="base64">XDx0ZXN0QXV0aFw+</entry>
+        <entry>check-s</entry>
       </history-search>
       <history-cmd>
         <entry>1177</entry>
