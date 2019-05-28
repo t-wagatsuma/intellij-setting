@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1559019925437">
+      <file name="/a.dummy" timestamp="1559020829915">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
@@ -101,6 +101,13 @@
         <mark key="." line="21" column="17" />
         <mark key="^" line="21" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" timestamp="1559021107958">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/src/assets/vue/pages/alcohol.vue" timestamp="1559020187393" />
       <file name="/fragment.java" timestamp="1558674902794">
         <mark key="[" line="0" column="0" />
@@ -113,11 +120,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/jwt/JwtAuthenticationProvider.java" />
-      <jump line="75" column="0" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/filter/JwtTokenAuthenticationProcessingFilter.java" />
-      <jump line="79" column="17" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/filter/JwtTokenAuthenticationProcessingFilter.java" />
-      <jump line="83" column="17" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/filter/JwtTokenAuthenticationProcessingFilter.java" />
-      <jump line="47" column="17" filename="$USER_HOME$/Documents/repositories/spring-demo/src/test/java/com/example/demo/DBSetupResource.java" />
       <jump line="30" column="33" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
       <jump line="58" column="8" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
       <jump line="32" column="35" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
@@ -213,6 +215,11 @@
       <jump line="82" column="12" filename="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/filter/KeycloakAuthenticationCustomProcessingFilter.java" />
       <jump line="97" column="4" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/assets/vue/pages/setting.vue" />
       <jump line="43" column="15" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/assets/vue/pages/setting.vue" />
+      <jump line="62" column="9" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" />
+      <jump line="49" column="8" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" />
+      <jump line="35" column="4" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" />
+      <jump line="36" column="38" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" />
+      <jump line="40" column="0" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -222,7 +229,7 @@
         <text>bootRun</text>
       </register>
       <register name="/" type="4">
-        <text>top</text>
+        <text>key</text>
       </register>
       <register name="0" type="4">
         <text>a</text>
@@ -259,9 +266,9 @@
       </register>
     </registers>
     <search>
-      <last-search>top</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern>top</last-pattern>
+      <last-pattern>key</last-pattern>
       <last-replace>Simple</last-replace>
       <last-substitute>Demo</last-substitute>
       <last-dir>1</last-dir>
@@ -269,9 +276,6 @@
     </search>
     <history>
       <history-search>
-        <entry>micro</entry>
-        <entry>insert</entry>
-        <entry>delete</entry>
         <entry encoding="base64">XDx0Y0lkXD4=</entry>
         <entry>update</entry>
         <entry encoding="base64">dXBkYXRlIA==</entry>
@@ -289,6 +293,9 @@
         <entry encoding="base64">XDx0ZXN0QXV0aFw+</entry>
         <entry>check-s</entry>
         <entry>top</entry>
+        <entry>auth</entry>
+        <entry>keyclo</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
         <entry>1177</entry>
