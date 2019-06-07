@@ -70,7 +70,7 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559721613014">
+      <file name="/Dummy.txt" timestamp="1559903458146">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -111,11 +111,11 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/webpack.config.js" timestamp="1559898917585">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/webpack.config.js" timestamp="1559903524593">
+        <mark key="[" line="1" column="51" />
+        <mark key="]" line="1" column="52" />
+        <mark key="^" line="1" column="51" />
+        <mark key="." line="1" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/config/webpack.common.js" timestamp="1559899011860">
         <mark key="'" line="84" column="6" />
@@ -283,7 +283,7 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -337,8 +337,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>459</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>1</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
