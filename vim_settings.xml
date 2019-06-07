@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1559897406159">
+      <file name="/a.dummy" timestamp="1559898107671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
@@ -57,6 +57,9 @@
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/db/migration/V2.2.1__add_index.sql" timestamp="1550551433467">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" timestamp="1559899120948">
+        <mark key="'" line="182" column="45" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1558400673310">
         <mark key="[" line="0" column="0" />
       </file>
@@ -108,10 +111,18 @@
         <mark key="^" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/webpack.config.js" timestamp="1559897174071">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/webpack.config.js" timestamp="1559898917585">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/config/webpack.common.js" timestamp="1559899011860">
+        <mark key="'" line="84" column="6" />
+        <mark key="[" line="90" column="32" />
+        <mark key="]" line="90" column="32" />
+        <mark key="." line="90" column="32" />
+        <mark key="^" line="90" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1559720315924">
         <mark key="[" line="0" column="0" />
@@ -130,17 +141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="33" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
-      <jump line="58" column="8" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
-      <jump line="32" column="35" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
-      <jump line="59" column="9" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
-      <jump line="29" column="35" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
-      <jump line="48" column="0" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
-      <jump line="24" column="40" filename="$USER_HOME$/Documents/repositories/spring-demo/src/main/java/com/example/demo/configration/springsecurity/controller/RefreshTokenEndpoint.java" />
-      <jump line="750" column="8" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/service/impl/TrafficCounterSevice.java" />
-      <jump line="11" column="43" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/service/impl/TrafficCounterSevice.java" />
-      <jump line="35" column="48" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/spring/post/RestClient.java" />
-      <jump line="9" column="25" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/util/spring/post/RestClient.java" />
       <jump line="2" column="46" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/advertisement/service/impl/AdvertisementServImpl.java" />
       <jump line="50" column="31" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/advertisement/service/impl/AdvertisementServImpl.java" />
       <jump line="420" column="25" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" />
@@ -230,55 +230,66 @@
       <jump line="35" column="4" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" />
       <jump line="36" column="38" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" />
       <jump line="40" column="0" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/src/main.vue" />
+      <jump line="37" column="19" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/config/webpack.common.js" />
+      <jump line="27" column="6" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/config/webpack.common.js" />
+      <jump line="84" column="6" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/config/webpack.common.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" />
+      <jump line="81" column="16" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" />
+      <jump line="89" column="14" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" />
+      <jump line="97" column="8" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" />
+      <jump line="138" column="46" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" />
+      <jump line="176" column="28" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" />
+      <jump line="178" column="19" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" />
+      <jump line="182" column="45" filename="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly9kZXZ0b29sOiAnaW5saW5lLXNvdXJjZS1tYXAnCg==</text>
+        <text encoding="base64">ICAgZGV2dG9vbDogJ2lubGluZS1zb3VyY2UtbWFwJwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>key</text>
+        <text>webpack</text>
       </register>
-      <register name="0" type="4">
-        <text>a</text>
+      <register name="0" type="2">
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBmdW5jdGlvbiAoZW52KSB7CiAgaWYgKHR5cGVvZiBlbnYgPT09ICd1bmRlZmluZWQnIHx8IHR5cGVvZiBlbnYuZGV2c2VydmVyID09PSAndW5kZWZpbmVkJykgewogICAgcmV0dXJuIHJlcXVpcmUoJy4vY29uZmlnL3dlYnBhY2suZGV2JykoKTsKICB9IGVsc2UgaWYgKHR5cGVvZiBlbnYuZGV2c2VydmVyICE9PSAndW5kZWZpbmVkJyAmJiBlbnYuZGV2c2VydmVyKSB7CiAgICByZXR1cm4gcmVxdWlyZSgnLi9jb25maWcvd2VicGFjay5zZXJ2ZXInKSgpOwogIH0gZWxzZSBpZiAodHlwZW9mIGVudi5yZWxlYXNlICE9PSAndW5kZWZpbmVkJyAmJiBlbnYucmVsZWFzZSkgeyAKICAgIHJldHVybiByZXF1aXJlKCcuL2NvbmZpZy93ZWJwYWNrLnJlbGVhc2UnKSgpOwogIH0KfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly9kZXZ0b29sOiAnaW5saW5lLXNvdXJjZS1tYXAnCg==</text>
+        <text encoding="base64">ICAgZGV2dG9vbDogJ2lubGluZS1zb3VyY2UtbWFwJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBlbnRyeTogJy4vc3JjL2luZGV4LmpzJywKICBvdXRwdXQ6IHsKICAgIHBhdGg6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICd3d3cnKSwKICAgIGZpbGVuYW1lOiAnaW5kZXguYnVuZGxlLmpzJywKICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">Kgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">Ly9kZXZ0b29sOiAnaW5saW5lLXNvdXJjZS1tYXAnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChOb1N1Y2hNZXRob2RFeGNlcHRpb24gZSkgewogICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBpbnN0YW5jZSA9IGNsYXp6Lm5ld0luc3RhbmNlKCk7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgIH0gY2F0Y2ggKEludm9jYXRpb25UYXJnZXRFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfSBjYXRjaCAoTm9TdWNoTWV0aG9kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGNhdGNoIChJbnN0YW50aWF0aW9uRXhjZXB0aW9uIHwgSWxsZWdhbEFjY2Vzc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5zdGFuY2UgPSBjbGF6ei5nZXREZWNsYXJlZENvbnN0cnVjdG9yKCkubmV3SW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
-      <last-search>key</last-search>
+      <last-search>webpack</last-search>
       <last-offset />
-      <last-pattern>key</last-pattern>
+      <last-pattern>webpack</last-pattern>
       <last-replace>Simple</last-replace>
       <last-substitute>Demo</last-substitute>
       <last-dir>1</last-dir>
@@ -286,11 +297,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0Y0lkXD4=</entry>
-        <entry>update</entry>
-        <entry encoding="base64">dXBkYXRlIA==</entry>
-        <entry encoding="base64">XDxnZXRDbGllbnRIdHRwUmVxdWVzdEZhY3RvcnlcPg==</entry>
-        <entry>selectSensorLocationDataByPK</entry>
         <entry encoding="base64">IGlk</entry>
         <entry>int</entry>
         <entry>setId</entry>
@@ -306,6 +312,11 @@
         <entry>auth</entry>
         <entry>keyclo</entry>
         <entry>key</entry>
+        <entry>inli</entry>
+        <entry>dev</entry>
+        <entry>log</entry>
+        <entry>console.log</entry>
+        <entry>webpack</entry>
       </history-search>
       <history-cmd>
         <entry>1177</entry>
@@ -326,8 +337,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>459</entry>
         <entry>q</entry>
-        <entry>1</entry>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
