@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1559898107671">
+      <file name="/a.dummy" timestamp="1559904881470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
@@ -70,7 +70,7 @@
       <file name="/dummy.sql" timestamp="1558412637689">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1559903458146">
+      <file name="/Dummy.txt" timestamp="1559905114804">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -80,6 +80,11 @@
         <mark key="]" line="458" column="19" />
         <mark key="^" line="458" column="19" />
         <mark key="." line="458" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/plugins/cordova-plugin-webpack/package.json" timestamp="1559904853251">
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="0" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1558406741183">
         <mark key="[" line="16" column="0" />
@@ -97,6 +102,7 @@
       <file name="/TEST.DB.PUBLIC.EMPLOYEE [test.db]" timestamp="1558412629288">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/plugins/cordova-plugin-webpack/scripts/utils/webpackHelper.js" timestamp="1559904994435" />
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/controller/TestController.java" timestamp="1558672634631">
         <mark key="'" line="18" column="13" />
         <mark key="[" line="21" column="12" />
@@ -244,7 +250,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgZGV2dG9vbDogJ2lubGluZS1zb3VyY2UtbWFwJwo=</text>
+        <text encoding="base64">ICAgICJyZWNob2lyIjogIl4wLjcuMCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -256,25 +262,25 @@
         <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBmdW5jdGlvbiAoZW52KSB7CiAgaWYgKHR5cGVvZiBlbnYgPT09ICd1bmRlZmluZWQnIHx8IHR5cGVvZiBlbnYuZGV2c2VydmVyID09PSAndW5kZWZpbmVkJykgewogICAgcmV0dXJuIHJlcXVpcmUoJy4vY29uZmlnL3dlYnBhY2suZGV2JykoKTsKICB9IGVsc2UgaWYgKHR5cGVvZiBlbnYuZGV2c2VydmVyICE9PSAndW5kZWZpbmVkJyAmJiBlbnYuZGV2c2VydmVyKSB7CiAgICByZXR1cm4gcmVxdWlyZSgnLi9jb25maWcvd2VicGFjay5zZXJ2ZXInKSgpOwogIH0gZWxzZSBpZiAodHlwZW9mIGVudi5yZWxlYXNlICE9PSAndW5kZWZpbmVkJyAmJiBlbnYucmVsZWFzZSkgeyAKICAgIHJldHVybiByZXF1aXJlKCcuL2NvbmZpZy93ZWJwYWNrLnJlbGVhc2UnKSgpOwogIH0KfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgZGV2dG9vbDogJ2lubGluZS1zb3VyY2UtbWFwJwo=</text>
+        <text encoding="base64">ICAgICJyZWNob2lyIjogIl4wLjcuMCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBlbnRyeTogJy4vc3JjL2luZGV4LmpzJywKICBvdXRwdXQ6IHsKICAgIHBhdGg6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICd3d3cnKSwKICAgIGZpbGVuYW1lOiAnaW5kZXguYnVuZGxlLmpzJywKICB9LAo=</text>
+        <text encoding="base64">ICAgZGV2dG9vbDogJ2lubGluZS1zb3VyY2UtbWFwJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Kgo=</text>
+        <text encoding="base64">ICBlbnRyeTogJy4vc3JjL2luZGV4LmpzJywKICBvdXRwdXQ6IHsKICAgIHBhdGg6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICd3d3cnKSwKICAgIGZpbGVuYW1lOiAnaW5kZXguYnVuZGxlLmpzJywKICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9kZXZ0b29sOiAnaW5saW5lLXNvdXJjZS1tYXAnCg==</text>
+        <text encoding="base64">Kgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly9kZXZ0b29sOiAnaW5saW5lLXNvdXJjZS1tYXAnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
