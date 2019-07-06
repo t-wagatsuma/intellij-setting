@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Documents/repositories/spring-keycloak-multitenant/src/main/java/co/tripodworks/iot/springkeycloakmultitenant/datasource/tenant/TenantDataSource.java" timestamp="1560243046265">
         <mark key="'" line="81" column="63" />
       </file>
-      <file name="/a.dummy" timestamp="1560243061990">
+      <file name="/a.dummy" timestamp="1561106715778">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
@@ -15,6 +15,7 @@
         <mark key="^" line="21" column="57" />
         <mark key="." line="21" column="57" />
       </file>
+      <file name="/TenantInfoRepository.java" timestamp="1561106652727" />
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/config/SecurityConfig.java" timestamp="1558595374404">
         <mark key="[" line="96" column="45" />
         <mark key="]" line="96" column="45" />
@@ -64,6 +65,9 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/db/migration/V2.2.1__add_index.sql" timestamp="1550551433467">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/repositories/spring-keycloak-multitenant/src/main/java/co/tripodworks/iot/springkeycloakmultitenant/service/master/impl/TenantInfoServImpl.java" timestamp="1561106714858">
+        <mark key="'" line="105" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/repositories/pab2000-cordova/hooks/hookers.js" timestamp="1559899120948">
         <mark key="'" line="182" column="45" />
@@ -153,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="35" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/advertisement/service/impl/AdvertisementServImpl.java" />
       <jump line="58" column="62" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/java/com/idncounter/app/advertisement/service/impl/AdvertisementServImpl.java" />
       <jump line="412" column="8" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" />
       <jump line="481" column="4" filename="$USER_HOME$/IdeaProjects/traffic-counter-app/src/main/resources/mapper/AdViewerItemsMapper.xml" />
@@ -253,6 +256,7 @@
       <jump line="14" column="32" filename="$USER_HOME$/Documents/repositories/spring-keycloak-multitenant/src/main/java/co/tripodworks/iot/springkeycloakmultitenant/datasource/tenant/TenantDataSource.java" />
       <jump line="85" column="51" filename="$USER_HOME$/Documents/repositories/spring-keycloak-multitenant/src/main/java/co/tripodworks/iot/springkeycloakmultitenant/datasource/tenant/TenantDataSource.java" />
       <jump line="81" column="63" filename="$USER_HOME$/Documents/repositories/spring-keycloak-multitenant/src/main/java/co/tripodworks/iot/springkeycloakmultitenant/datasource/tenant/TenantDataSource.java" />
+      <jump line="105" column="16" filename="$USER_HOME$/Documents/repositories/spring-keycloak-multitenant/src/main/java/co/tripodworks/iot/springkeycloakmultitenant/service/master/impl/TenantInfoServImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -262,7 +266,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>conne</text>
+        <text encoding="base64">XDxtaWdyYXRlQWxsRGF0YWJhc2VzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBmdW5jdGlvbiAoZW52KSB7CiAgaWYgKHR5cGVvZiBlbnYgPT09ICd1bmRlZmluZWQnIHx8IHR5cGVvZiBlbnYuZGV2c2VydmVyID09PSAndW5kZWZpbmVkJykgewogICAgcmV0dXJuIHJlcXVpcmUoJy4vY29uZmlnL3dlYnBhY2suZGV2JykoKTsKICB9IGVsc2UgaWYgKHR5cGVvZiBlbnYuZGV2c2VydmVyICE9PSAndW5kZWZpbmVkJyAmJiBlbnYuZGV2c2VydmVyKSB7CiAgICByZXR1cm4gcmVxdWlyZSgnLi9jb25maWcvd2VicGFjay5zZXJ2ZXInKSgpOwogIH0gZWxzZSBpZiAodHlwZW9mIGVudi5yZWxlYXNlICE9PSAndW5kZWZpbmVkJyAmJiBlbnYucmVsZWFzZSkgeyAKICAgIHJldHVybiByZXF1aXJlKCcuL2NvbmZpZy93ZWJwYWNrLnJlbGVhc2UnKSgpOwogIH0KfTsK</text>
@@ -299,9 +303,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conne</last-search>
+      <last-search encoding="base64">XDxtaWdyYXRlQWxsRGF0YWJhc2VzXD4=</last-search>
       <last-offset />
-      <last-pattern>conne</last-pattern>
+      <last-pattern encoding="base64">XDxtaWdyYXRlQWxsRGF0YWJhc2VzXD4=</last-pattern>
       <last-replace>Simple</last-replace>
       <last-substitute>Demo</last-substitute>
       <last-dir>1</last-dir>
@@ -309,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setId</entry>
         <entry>id</entry>
         <entry>codec</entry>
         <entry encoding="base64">XDxEaWdlc3RVdGlsc1w+</entry>
@@ -329,6 +332,7 @@
         <entry>webpack</entry>
         <entry encoding="base64">XDxnZXREYm5hbWVcPg==</entry>
         <entry>conne</entry>
+        <entry encoding="base64">XDxtaWdyYXRlQWxsRGF0YWJhc2VzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>1177</entry>
