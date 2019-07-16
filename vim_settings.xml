@@ -6,8 +6,10 @@
       <file name="$USER_HOME$/Documents/repositories/spring-keycloak-multitenant/src/main/java/co/tripodworks/iot/springkeycloakmultitenant/datasource/tenant/TenantDataSource.java" timestamp="1560243046265">
         <mark key="'" line="81" column="63" />
       </file>
-      <file name="/a.dummy" timestamp="1562920130901">
+      <file name="/a.dummy" timestamp="1562922175993">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/alc-cloud-keycloak/src/main/java/co/tripodworks/iot/alccloudkeycloak/AlcCloudKeycloakApplication.java" timestamp="1558509992077">
         <mark key="[" line="19" column="0" />
@@ -259,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>infoList</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>infoList</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtaWdyYXRlQWxsRGF0YWJhc2VzXD4=</text>
