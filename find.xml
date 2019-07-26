@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="global" />
-    <option name="defaultScopeName" value="global" />
+    <option name="customScope" value="ファイル '...\src\main\java\com\idnsmartmeter\mdms\dto\response\common\ResponseDto.java [mdms.main]'" />
+    <option name="defaultScopeName" value="ファイル '...\src\main\java\com\idnsmartmeter\mdms\dto\response\common\ResponseDto.java [mdms.main]'" />
     <option name="fromCursor" value="false" />
     <option name="FIND_ORIGIN" value="entire_scope" />
-    <option name="SEARCH_SCOPE" value="global" />
+    <option name="SEARCH_SCOPE" value="ファイル '...\src\main\java\com\idnsmartmeter\mdms\dto\response\common\ResponseDto.java [mdms.main]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
