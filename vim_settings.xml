@@ -1,6 +1,18 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
@@ -93,7 +105,67 @@
         <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/GitHub/tnk/tnk-lib-diagnostic/examples/ble.diagnostic.vue.cordova/src/App.vue" timestamp="1583536798076">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="21" column="32" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1583508274990">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/tnk/tnk-app-monaca/src/components/HomePage.vue" timestamp="1583807015979">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/tnk/tnk-app-monaca/src/components/MenuPage.vue" timestamp="1583537606665">
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/Documents/GitHub/tnk/tnk-app-monaca/package.json" timestamp="1583806845752">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="14" column="5" />
+        <mark key="." line="15" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJzY3JpcHRzIjogewogICAgICAgICJzZXJ2ZSI6ICJ2dWUtY2xpLXNlcnZpY2Ugc2VydmUgLS1uby1jbGVhbiIsCiAgICAgICAgImJ1aWxkIjogInZ1ZS1jbGktc2VydmljZSBidWlsZCAtLWRlc3Qgd3d3IC0tbW9kZSBwcm9kdWN0aW9uIiwKICAgICAgICAiZGV2LWJ1aWxkIjogInZ1ZS1jbGktc2VydmljZSBidWlsZCAtLWRlc3Qgd3d3IC0tbW9kZSBkZXZlbG9wbWVudCAtLW5vLWNsZWFuIiwKICAgICAgICAibGludCI6ICJ2dWUtY2xpLXNlcnZpY2UgbGludCIsCiAgICAgICAgImxpbnQtZml4IjogInZ1ZS1jbGktc2VydmljZSBsaW50IC0tZml4IiwKICAgICAgICAibW9uYWNhOnByZXZpZXciOiAibnBtIHJ1biBkZXYtYnVpbGQgLS13YXRjaCIsCiAgICAgICAgIm1vbmFjYTp0cmFuc3BpbGUiOiAibnBtIHJ1biBkZXYtYnVpbGQiLAogICAgICAgICJtb25hY2E6ZGVidWciOiAidnVlLWNsaS1zZXJ2aWNlIGJ1aWxkIC0tZGVzdCB3d3cgLS1tb2RlIGRldmVsb3BtZW50IC0tbm8tY2xlYW4iCiAgICB9LAo=</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>2</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
