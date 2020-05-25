@@ -11,6 +11,8 @@
       <sshConfig authType="PASSWORD" host="172.16.68.102" id="c9d8f659-e94e-4904-90bd-f9d837eee4ba" port="22" customName="172.16.68.102" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="172.16.68.101" id="48729ff2-0a89-403e-9d1f-3f66d1b48061" port="22" customName="172.16.68.101" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="172.16.68.102" id="49aa251a-3a32-4db6-b0d7-79ee261ed96a" port="22" customName="172.16.68.102" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="172.16.68.101" id="531e891a-db17-4d67-8c2f-95f1f55fbb8f" port="22" customName="172.16.68.101" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="172.16.68.102" id="545009b6-c1da-4571-af90-1c13e080d163" port="22" customName="172.16.68.102" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
