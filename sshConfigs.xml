@@ -17,6 +17,10 @@
       <sshConfig authType="PASSWORD" host="172.16.68.102" id="a393f1b4-b17a-46e8-95a9-1d186512cbca" port="22" customName="172.16.68.102" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="172.16.68.101" id="945a587d-6c1f-4a2c-86a7-7c6766ec855a" port="22" customName="172.16.68.101" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="172.16.68.102" id="e770f063-4121-41db-a283-42109c7a497e" port="22" customName="172.16.68.102" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="172.16.68.101" id="b0e7a20d-b73d-443f-a35a-b6d373524cd8" port="22" customName="172.16.68.101" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="172.16.68.102" id="d3162d78-fb16-43ff-87c7-35dc33d6d7d6" port="22" customName="172.16.68.102" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="172.16.68.101" id="b5011acd-c82c-4164-a717-72ef0b922d1d" port="22" customName="172.16.68.101" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="172.16.68.102" id="a8ccac33-deae-4740-89a2-e1f1e6160876" port="22" customName="172.16.68.102" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
