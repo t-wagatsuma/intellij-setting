@@ -7,6 +7,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -127,6 +128,9 @@
         <mark key="." line="15" column="47" />
         <mark key="^" line="15" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/GitHub/tnk/tnk-app-monaca/src/components/pages/rollcall/Alcohol.vue" timestamp="1590565957490">
+        <mark key="'" line="294" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/GitHub/tnk/tnk-app-monaca/src/components/MenuPage.vue" timestamp="1583537606665">
         <mark key="[" line="7" column="46" />
         <mark key="]" line="7" column="49" />
@@ -140,7 +144,9 @@
         <mark key="." line="15" column="0" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="294" column="6" filename="$USER_HOME$/Documents/GitHub/tnk/tnk-app-monaca/src/components/pages/rollcall/Alcohol.vue" />
+    </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
@@ -151,7 +157,7 @@
         <text>2</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
